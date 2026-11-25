@@ -1,0 +1,18 @@
+[
+  {
+    "quote": "The actual quote text will appear here.",
+    "author": "Author Name",
+    "tags": [
+      "inspirational",
+      "life"
+    ]
+  },
+  {
+    "quote": "Another quote will appear here.",
+    "author": "Another Author",
+    "tags": [
+      "love",
+      "books"
+    ]
+  }
+]
